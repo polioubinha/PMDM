@@ -5,6 +5,7 @@
     <string name="nombre">Nombre</string>
     <string name="acceder_al_curso">Acceder al curso</string>
     <string name="password">Contraseña</string>
+    <string name="texto_inicial">Texto inicial</string>
 
     <string-array name="modulos">
         <item>Acceso a datos</item>
