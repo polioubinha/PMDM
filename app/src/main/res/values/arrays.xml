@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/arrays.xml -->
+<resources>
+    <string-array name="spinner_items">
+        <item>Seleccione un sistema operativo</item>
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Windows</item>
+        <item>Linux</item>
+        <!-- Agrega más opciones según sea necesario -->
+    </string-array>
+</resources>
+
